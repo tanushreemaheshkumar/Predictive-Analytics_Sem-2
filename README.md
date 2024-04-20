@@ -2,7 +2,7 @@ Avocado-Prices-Time-Series-Analysis-
 
 ARIMA SARIMA models for Avocado Price Prediction
 
-how to install and run your software and all the experiments - We have attached Google colab that is an .Ipynb file, and "run all" option will allow us to run the complete code file.
+Instructions to install and run your software and all the experiments - We have attached Google colab that is an .Ipynb file, and "run all" option will allow us to run the complete code file.
 
 
 Dataset Information
